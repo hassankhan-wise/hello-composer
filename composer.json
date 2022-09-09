@@ -1,0 +1,19 @@
+{
+    "name": "hk/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hassankhan-wise",
+            "email": "hassankhan.infinitewise@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "vitalis\\HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
