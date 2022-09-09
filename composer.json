@@ -1,5 +1,5 @@
 {
-    "name": "hk/hello-composer",
+    "name": "hkwise/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "vitalis\\HelloWorld\\": "src/"
+            "hkwise\\HelloWorld\\": "src/"
         }
     },
     "require": {}

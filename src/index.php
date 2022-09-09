@@ -1,6 +1,6 @@
 <?php 
 
-namespace hk\HelloWorld;
+namespace hkwise\HelloWorld;
 
 class Index
 {
